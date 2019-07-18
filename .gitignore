@@ -1,0 +1,7 @@
+*.onnx
+bvlc_alexnet/model.onnx
+bvlc_rcnn/model.onnx
+resnet50/model.onnx
+resnet18v1/resnet18v1.onnx
+tiny_yolov2/*
+*/*.onnx
